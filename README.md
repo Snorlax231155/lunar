@@ -1,4 +1,4 @@
-# LunarLander-v3 PPO University Project
+# LunarLander-v3 PPO Project
 
 An academically rigorous, modular implementation of the Deep Reinforcement Learning algorithm **Proximal Policy Optimization (PPO)** to solve the **LunarLander-v3** environment from Gymnasium. 
 
@@ -160,11 +160,3 @@ A successful training run of 300,000 steps should achieve:
 
 ---
 
-## Troubleshooting
-
-- **ModuleNotFoundError: No module named 'Box2D'**:
-  Ensure you installed `gymnasium[box2d]`. If building from source fails, verify that `swig` is installed (`pip install swig` or your system package manager like `sudo pacman -S swig`).
-- **GLFW/Pygame render errors in SSH/Headless mode**:
-  Pygame requires a display to render `human` mode. If you are running headlessly, run `--video` instead of `--test` to record gameplay without opening a window.
-- **Low GPU Utilization / Slow GPU training warning**:
-  PyTorch issues a warning regarding MLP models on GPU. The CLI defaults to `device="cpu"` which is **1.6x faster** than GPU training because it avoids GPU transfer latency.
