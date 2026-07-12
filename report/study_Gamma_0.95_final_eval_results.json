@@ -1,0 +1,11 @@
+{
+    "model_name": "study_Gamma_0.95_final.zip",
+    "n_episodes": 30,
+    "avg_reward": -94.28314412132244,
+    "max_reward": -46.44792369221787,
+    "min_reward": -145.157648117995,
+    "std_reward": 23.920720043121126,
+    "success_rate": 0.0,
+    "crash_rate": 40.0,
+    "avg_length": 1000.0
+}

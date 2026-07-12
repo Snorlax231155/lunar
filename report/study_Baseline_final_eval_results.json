@@ -1,0 +1,11 @@
+{
+    "model_name": "study_Baseline_final.zip",
+    "n_episodes": 30,
+    "avg_reward": 118.50373699115661,
+    "max_reward": 208.46999188293378,
+    "min_reward": -103.79103284983461,
+    "std_reward": 96.2956199926335,
+    "success_rate": 3.3333333333333335,
+    "crash_rate": 3.3333333333333335,
+    "avg_length": 663.5333333333333
+}

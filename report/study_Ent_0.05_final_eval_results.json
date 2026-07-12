@@ -1,0 +1,11 @@
+{
+    "model_name": "study_Ent_0.05_final.zip",
+    "n_episodes": 30,
+    "avg_reward": -29.131323119694198,
+    "max_reward": 138.938391284467,
+    "min_reward": -206.80667767913317,
+    "std_reward": 105.02369293498735,
+    "success_rate": 0.0,
+    "crash_rate": 26.666666666666668,
+    "avg_length": 812.5333333333333
+}

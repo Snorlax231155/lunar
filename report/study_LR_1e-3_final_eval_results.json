@@ -1,0 +1,11 @@
+{
+    "model_name": "study_LR_1e-3_final.zip",
+    "n_episodes": 30,
+    "avg_reward": -33.14442337339976,
+    "max_reward": 210.8152890746216,
+    "min_reward": -231.04708980635658,
+    "std_reward": 128.93730971869883,
+    "success_rate": 3.3333333333333335,
+    "crash_rate": 50.0,
+    "avg_length": 560.1333333333333
+}

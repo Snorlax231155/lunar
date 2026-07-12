@@ -1,0 +1,11 @@
+{
+    "model_name": "study_Clip_0.1_final.zip",
+    "n_episodes": 30,
+    "avg_reward": -241.43036607083337,
+    "max_reward": -147.34650563272382,
+    "min_reward": -376.25541430742646,
+    "std_reward": 64.28835518676495,
+    "success_rate": 0.0,
+    "crash_rate": 100.0,
+    "avg_length": 806.4333333333333
+}

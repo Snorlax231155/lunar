@@ -1,0 +1,11 @@
+{
+    "model_name": "best_model.zip",
+    "n_episodes": 100,
+    "avg_reward": 78.55716421725968,
+    "max_reward": 203.84503287144767,
+    "min_reward": -146.3957805540175,
+    "std_reward": 92.17164678625541,
+    "success_rate": 2.0,
+    "crash_rate": 3.0,
+    "avg_length": 711.76
+}
